@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Parkinsans:wght@300..800&family=Poppins:wght@300;500;600&display=swap');
+
+*{
+    font-family: "Parkinsans", sans-serif;
+    font-style: normal;
+}
+
+li {
+    list-style: none;
+}
+
+.imgHome{
+    width: 80%;
+}
